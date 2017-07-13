@@ -102,7 +102,7 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <Compile Include="Commands\ExternalEventMode.cs" />
-    <Compile Include="Events\ProcessEventHandler.cs" />
+    <Compile Include="EventHandlers\ProcessEventHandler.cs" />
     <Compile Include="Models\ChangeParameter.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
